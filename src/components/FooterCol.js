@@ -35,7 +35,7 @@ export default function FooterCol({
       <ul>
         {content.map((item, index) => (
           <li key={index}>
-            {item.type == 'Link' ? (
+            {item.type === 'Link' ? (
               <Link to={item.link}>{item.title}</Link>
             ) : (
               <a href={item.link} target='_blank' rel='noreferrer'>
