@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from '../assets/images/hero.jpg';
+import HeroImage from '../assets/images/backGround.jpg';
 import Button from './Button';
 import PText from './PText';
 import HeroMediaArrow from '../assets/images/social-media-arrow.svg';

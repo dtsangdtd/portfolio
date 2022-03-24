@@ -110,7 +110,7 @@ export default function Footer() {
               { title: 'Twitter', link: 'https://www.facebook.com/dtsangdtd/' },
               {
                 title: 'Instagram',
-                link: 'https://www.facebook.com/dtsangdtd/',
+                link: 'https://www.instagram.com/dtsang.kai24/',
               },
             ]}
           />
