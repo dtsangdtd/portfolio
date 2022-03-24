@@ -2,7 +2,7 @@ import React from 'react';
 import Button from './Button';
 import PText from './PText';
 import SectionTitle from './SectionTitle';
-import AboutImg from '../assets/images/avatar-2.gif';
+import AboutImg from '../assets/images/greenctg.jpg';
 import styled from 'styled-components';
 const AboutSectionStyles = styled.div`
   padding: 10rem 0;
@@ -32,6 +32,7 @@ const AboutSectionStyles = styled.div`
   }
   .aboutImg {
     border: 2px solid var(--gray-1);
+    height: 500px;
   }
   @media only screen and (max-width: 950px) {
     .aboutSection__left {
