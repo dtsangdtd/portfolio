@@ -2,7 +2,7 @@ import React from 'react';
 import Button from './Button';
 import PText from './PText';
 import SectionTitle from './SectionTitle';
-import AboutImg from '../assets/images/avatar-2.jpg';
+import AboutImg from '../assets/images/avatar-2.gif';
 import styled from 'styled-components';
 const AboutSectionStyles = styled.div`
   padding: 10rem 0;
